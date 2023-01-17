@@ -1,0 +1,70 @@
+.header{
+    background-color: #282A35;
+    padding: 25px;
+    text-align: center;
+}
+a{
+    color: white;
+    margin: 25px;
+    font-size: 30px;
+}
+.text_1{
+    font-size: 40px;
+}
+.btn{
+    color: white;
+    background-color: #04AA6d;
+    padding: 20px 30px;
+    border: none;
+}
+.about{
+    background-color: #d9eee1;
+}
+.about p{
+    padding: 15px;
+    font-size: 18px;
+}
+.about_btn-1{
+    background-color: #04AA6d;
+    padding: 16px 15px;
+    color: white;
+    font-size:23px;
+    box-shadow: #282A35;
+}
+.about_btn-2{
+    background-color: #282A35;
+    padding: 16px 15px;
+    color: white;
+    font-size:23px;
+    box-shadow:#04AA6d;
+}
+.deep_bl{
+    color: deepskyblue;
+}
+.deep_br{
+    color: darkred;
+}
+.deep_r{
+    color: red;
+}
+.text_p{
+    background-color: lightgrey;
+    padding: 20px;
+}
+.white{
+    background-color: white;
+    color: white;
+}
+.submit{
+    background-color: #04AA6d;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.text_3{
+    font-size: 20px;
+    color: black;
+}
